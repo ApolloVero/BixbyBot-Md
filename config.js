@@ -8,7 +8,7 @@ global.confirmCode = ""
 
 global.owner = [
   ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
+  ['3271682311',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
